@@ -1,6 +1,6 @@
 ﻿using Adapter;
 
-Console.WriteLine( "Two versions of the Adapter pattern implementation" );
+Console.WriteLine( "Two versions of the Adapter Structural Design Pattern implementation\n" );
 Console.WriteLine();
 
 
